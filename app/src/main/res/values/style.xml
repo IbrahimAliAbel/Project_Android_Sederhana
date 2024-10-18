@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Background_Merah">
+        <item name="backgroundColor">@color/red</item>
+    </style>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#C8102E</item> <!-- Warna Merah Bendera Jepang -->
+        <item name="colorPrimaryDark">#9A2A27</item> <!-- Warna Merah Tua -->
+        <item name="colorAccent">#F1F1F1</item> <!-- Warna Putih -->
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:textColorPrimary">@android:color/white</item> <!-- Teks putih di ActionBar -->
+        <item name="android:actionBarItemBackground">@android:color/transparent</item> <!-- Latar belakang item transparan -->
+    </style>
+</resources>

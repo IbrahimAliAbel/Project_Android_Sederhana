@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">JDM CARS</string>
+    <string name="mobil_name">cars_name</string>
+    <string name="description">description</string>
+    <string name="about">About</string>
+    <string name="nama_anda">IBRAHIM ALI ABEL</string>
+    <string name="email_domain_com">ibrahimaliabel019@gmail.com</string>
+    <string name="ibrahim_ali_abel">IBRAHIM ALI ABEL</string>
+    <string name="ibrahimaliabel019_gmail_com">ibrahimaliabel019@gmail.com</string>
+    <string name="additional_info">Mobile Developer</string>
+
+    <string-array name="data_name">
+        <item>Nissan Silvia</item>
+        <item>Mitsubishi Lancer Evolution VI</item>
+        <item>Nissan Skyline GT-R</item>
+        <item>Honda EK9 Civic Type R</item>
+        <item>Honda DC2 Integra Type R</item>
+        <item>Honda NSX</item>
+        <item>Nissan 300 ZX</item>
+        <item>Toyota Supra MKIV</item>
+        <item>Subaru Impreza WRX STI</item>
+        <item>Mazda RX-7 FD3S</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Model year: 1989-2002, Engine displacement: 2 liters, Power output: 133-247 bhp, Drivetrain configuration: RWD</item>
+        <item>Model year: 1999-2001, Engine displacement: 2 liters, Power output: 276 bhp, Drivetrain configuration: AWD</item>
+        <item>Model year: 1989-2002, Engine displacement: 2.6 liters, Power output: 276 bhp, Drivetrain configuration: AWD</item>
+        <item>Model year: 1997–2001, Engine displacement: 1.6 liters, Power output: 182 bhp, Drivetrain configuration: FWD</item>
+        <item>Model year: 1995–2001, Engine displacement: 1.8 liters, Power output: 200 bhp, Drivetrain configuration: FWD</item>
+        <item>Model year: 1990–2005, Engine displacement: 3 liters, Power output: 270-290 bhp, Drivetrain configuration: RWD</item>
+        <item>Model year: 1989–2000, Engine displacement: 3 liters, Power output: 300 bhp, Drivetrain configuration: RWD</item>
+        <item>Model year: 1993–2002, Engine displacement: 3 liters, Power output: 276-326 bhp, Drivetrain configuration: RWD</item>
+        <item>Model year: 1992-2000, Engine displacement: 2 liters, Power output: 247-276 bhp, Drivetrain configuration: AWD</item>
+        <item>Model Year: 1991-2002, Engine displacement: 1.3 litre twin-turbo, Power output: 252-276 bhp, Drivetrain configuration: RWD
+        </item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/nissansilvia</item>
+        <item>@drawable/lancer</item>
+        <item>@drawable/nissanskylinegtr</item>
+        <item>@drawable/hondacivictyper</item>
+        <item>@drawable/hondaintegra</item>
+        <item>@drawable/hondansx</item>
+        <item>@drawable/nissanzx</item>
+        <item>@drawable/toyotasupra</item>
+        <item>@drawable/ubaruimpreza</item>
+        <item>@drawable/mazdarx</item>
+    </integer-array>
+
+    <string-array name="data_detail_description">
+        <item>Nissan Silvia adalah mobil sport ikonik yang diproduksi dari tahun 1965 hingga 2002, dengan varian yang paling dikenal seperti S13, S14, dan S15. Mobil ini terkenal di dunia drifting dan motorsport berkat daya tariknya yang seimbang antara performa dan pengendalian. Dengan desain yang sporty dan mesin bertenaga, Silvia telah menjadi pilihan favorit di kalangan penggemar otomotif.</item>
+        <item>Mitsubishi Lancer Evolution VI, sering disebut Evo VI, adalah generasi keenam dari seri Lancer Evolution yang diproduksi antara 1999 dan 2001. Dikenal karena performa yang luar biasa dan kemampuan off-road-nya, Evo VI dilengkapi dengan mesin turbocharged 2.0L yang memberikan tenaga maksimal. Mobil ini memiliki sejarah kemenangan yang mengesankan di ajang World Rally Championship (WRC), menjadikannya salah satu mobil ikonik di dunia rally.</item>
+        <item>Nissan Skyline GT-R, yang akrab dikenal dengan sebutan "Godzilla," adalah mobil sport legendaris dengan mesin RB26DETT yang bertenaga. Model-model seperti R32, R33, dan R34 telah menciptakan reputasi yang mengesankan di kalangan penggemar otomotif. Skyline GT-R menjadi populer berkat penampilannya di film "The Fast and the Furious" dan prestasinya di dunia balap, menjadikannya simbol performa tinggi dan inovasi teknologi.</item>
+        <item>Honda EK9 Civic Type R adalah versi performa tinggi dari Honda Civic generasi keenam yang dirilis pada tahun 1997. Mobil ini dikenal karena bobotnya yang ringan dan responsif, menawarkan pengalaman berkendara yang menyenangkan. EK9 menjadi mobil legendaris di kalangan penggemar hot hatch, sering diakui sebagai salah satu mobil terbaik di kelasnya berkat kombinasi performa dan efisiensi.</item>
+        <item>Honda DC2 Integra Type R adalah mobil sport kompak yang diperkenalkan pada tahun 1995. Dikenal dengan mesin B18C5 yang bertenaga dan desain yang aerodinamis, DC2 menawarkan performa yang sangat baik dan pengendalian yang presisi. Mobil ini sering dianggap sebagai salah satu yang terbaik di era 90-an, berfokus pada performa dan pengalaman berkendara yang menyenangkan.</item>
+        <item>Honda NSX, atau New Sports eXperimental, adalah supercar yang diluncurkan pada tahun 1990. Dikenal karena desain ramping dan mesin V6 yang kuat, NSX menjadi simbol inovasi dalam industri otomotif. Mobil ini adalah yang pertama menggunakan bodi berbahan aluminium, menawarkan kombinasi performa tinggi dan keandalan, serta sering dianggap sebagai salah satu supercar terbaik yang dapat digunakan sehari-hari.</item>
+        <item>Nissan 300ZX adalah generasi kedua dari Z-car yang diproduksi dari 1983 hingga 2000. Dikenal dengan desain aerodinamis dan performa yang solid, 300ZX menawarkan pengalaman berkendara yang menyenangkan. Mobil ini telah memenangkan beberapa penghargaan, termasuk "Best Sports Car" oleh Motor Trend pada tahun 1990, dan terus diingat sebagai salah satu mobil sport yang ikonik dari era-nya.</item>
+        <item>Toyota Supra MKIV, yang diproduksi antara 1993 dan 2002, adalah mobil sport yang terkenal dengan mesin 2JZ-GTE yang sangat kuat dan kemampuan modifikasi yang luar biasa. Supra MKIV menjadi salah satu mobil legendaris di kalangan penggemar modifikasi dan sering terlihat dalam film "The Fast and the Furious," di mana reputasinya sebagai mobil performa tinggi semakin menguat.</item>
+        <item>Subaru Impreza WRX STI adalah versi performa tinggi dari Subaru Impreza, dikenal dengan mesin turbocharged dan sistem penggerak all-wheel drive. WRX STI memiliki sejarah panjang dalam motorsport, termasuk kemenangan di ajang WRC, dan dikenal dengan karakteristik pengendaliannya yang tajam. Mobil ini adalah pilihan utama bagi penggemar otomotif yang mencari performa dan ketangkasan di jalan raya.</item>
+        <item>Mazda RX-7 FD3S adalah mobil sport dengan mesin rotari yang diproduksi antara 1992 dan 2002. Model ini dikenal karena bobotnya yang ringan, desain elegan, dan performa yang mengesankan. RX-7 adalah salah satu mobil paling ikonik yang menggunakan mesin rotari, menarik perhatian penggemar otomotif berkat keunikannya dibandingkan mesin piston konvensional.</item>
+    </string-array>
+
+    <string-array name="nama_Anda">
+        <item>Ibrahim Ali Abel</item>
+    </string-array>
+    <string-array name="email_domain_com">
+        <item>Ibrahim Ali Abel</item>
+    </string-array>
+
+
+</resources>
